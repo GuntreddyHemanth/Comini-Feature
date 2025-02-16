@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Time Well Spent",
+  "version": "1.0",
+  "permissions": ["storage", "tabs", "alarms"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Time Well Spent"
+  },
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com;"
+  }
+}
