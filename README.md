@@ -1,7 +1,7 @@
-# Time Well Spent - Chrome Extension
+# Time Spent - Chrome Extension
 
 ## Overview
-The **Time Well Spent** Chrome extension helps users track their browsing habits by distinguishing between focused and distracted activities. At the end of each week, users receive a detailed email report summarizing their productivity and suggesting improvements.
+The **Time Spent** Chrome extension helps users track their browsing habits by distinguishing between focused and distracted activities. At the end of each week, users receive a detailed email report summarizing their productivity and suggesting improvements.
 
 ## Key Features
 
